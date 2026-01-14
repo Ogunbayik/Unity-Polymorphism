@@ -8,4 +8,6 @@ public class Archer : Enemy
     {
         Debug.Log("Archer is using bow");
     }
+
+    public override void TakeDamage(int damageAmount) => Debug.Log($"Archer took {damageAmount} damage.. Archer is retreating..");
 }

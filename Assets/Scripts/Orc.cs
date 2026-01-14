@@ -10,4 +10,5 @@ public class Orc : Enemy
         Debug.Log("Orc Swinging his axe");
     }
 
+    public override void TakeDamage(int damageAmount) => Debug.Log($"Orc took {damageAmount} damage.. Orc is agressive mood.");
 }
