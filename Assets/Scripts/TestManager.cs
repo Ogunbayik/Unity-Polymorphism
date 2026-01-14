@@ -4,15 +4,25 @@ using UnityEngine;
 
 public class TestManager : MonoBehaviour
 {
+    private List<Enemy> enemyList = new List<Enemy>();
+
     void Start()
     {
         GameObject archer = new GameObject();
         GameObject orc = new GameObject();
 
         archer.AddComponent<Archer>();
-        orc.AddComponent<Orc>();
+        archer.name = "Archer";
 
-        archer.GetComponent<Archer>().Attack();
-        orc.GetComponent<Orc>().Attack();
+        orc.AddComponent<Orc>();
+        orc.name = "Orc";
+
+        enemyList.Add(archer.GetComponent<Enemy>());
+        enemyList.Add(orc.GetComponent<Enemy>());
+
+        foreach (Enemy enemy in enemyList)
+        {
+            enemy.Attack();
+        }
     }
 }
