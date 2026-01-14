@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TestManager : MonoBehaviour
 {
-    private List<Enemy> enemyList = new List<Enemy>();
+    private List<IDamageable> damageableList = new List<IDamageable>();
 
     private const int testDamage = 10;
 
@@ -12,6 +12,7 @@ public class TestManager : MonoBehaviour
     {
         GameObject archer = new GameObject();
         GameObject orc = new GameObject();
+        GameObject crate = new GameObject();
 
         archer.AddComponent<Archer>();
         archer.name = "Archer";
@@ -19,12 +20,16 @@ public class TestManager : MonoBehaviour
         orc.AddComponent<Orc>();
         orc.name = "Orc";
 
-        enemyList.Add(archer.GetComponent<Archer>());
-        enemyList.Add(orc.GetComponent<Orc>());
+        crate.AddComponent<Crate>();
+        crate.name = "Crate";
 
-        foreach (Enemy enemy in enemyList)
+        damageableList.Add(archer.GetComponent<Archer>());
+        damageableList.Add(orc.GetComponent<Orc>());
+        damageableList.Add(crate.GetComponent<Crate>());
+
+        foreach (IDamageable damageableObj in damageableList)
         {
-            enemy.TakeDamage(testDamage);
+            damageableObj.TakeDamage(testDamage);
         }
     }
 }

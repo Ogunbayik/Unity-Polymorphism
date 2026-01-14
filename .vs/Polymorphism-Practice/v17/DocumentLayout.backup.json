@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interface\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Interface\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interface\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Interface\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interface\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:07:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Archer.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Archer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Archer.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Archer.cs",
               "RelativeToolTip": "Assets\\Scripts\\Archer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:34:23.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Orc.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Orc.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Orc.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Orc.cs",
               "RelativeToolTip": "Assets\\Scripts\\Orc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:34:25.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TestManager.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\TestManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TestManager.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\TestManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\TestManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T12:36:03.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T12:36:03.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:32:42.195Z",
               "EditorCaption": ""
