@@ -9,7 +9,7 @@ public class TestManager : MonoBehaviour
     private const int testDamage = 10;
 
     void Start()
-    {
+    {/*
         GameObject archer = new GameObject();
         GameObject orc = new GameObject();
         GameObject crate = new GameObject();
@@ -31,5 +31,6 @@ public class TestManager : MonoBehaviour
         {
             damageableObj.TakeDamage(testDamage);
         }
+        */
     }
 }

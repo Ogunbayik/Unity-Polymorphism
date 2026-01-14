@@ -64,7 +64,10 @@
     <Compile Include="Assets\Scripts\Crate.cs" />
     <Compile Include="Assets\Scripts\Interface\IDamageable.cs" />
     <Compile Include="Assets\Scripts\TestManager.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\BulletSpawner.cs" />
     <Compile Include="Assets\Scripts\Orc.cs" />
+    <Compile Include="Assets\Scripts\Wall.cs" />
     <Compile Include="Assets\Scripts\Archer.cs" />
   </ItemGroup>
   <ItemGroup>
