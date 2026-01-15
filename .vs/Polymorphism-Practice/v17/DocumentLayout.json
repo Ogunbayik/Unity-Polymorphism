@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\installers\\factoryinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\installers\\factoryinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\miniproject\\installers\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\installers\\signalinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemy\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemy\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemy\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemy\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemy\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\miniproject\\gamesignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\gamesignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\miniproject\\enemy\\enemydataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\miniproject\\enemy\\enemydataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameSignal.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\GameSignal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\GameSignal.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\GameSignal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\GameSignal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:03:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignalInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Installers\\SignalInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Installers\\SignalInstaller.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Installers\\SignalInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Installers\\SignalInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:03:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyBase.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\EnemyBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Enemy\\EnemyBase.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\EnemyBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Enemy\\EnemyBase.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:22:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\SpawnManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:53:23.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Installers\\FactoryInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Installers\\FactoryInstaller.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Installers\\FactoryInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Installers\\FactoryInstaller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:38:42.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\EnemyFactory.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\EnemyFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\EnemyFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:47:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyDataSO.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\EnemyDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Enemy\\EnemyDataSO.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\EnemyDataSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Enemy\\EnemyDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:22:43.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Enemy\\Zombie.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Enemy\\Zombie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:22:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skeleton.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Enemy\\Skeleton.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Skeleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Enemy\\Skeleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:22:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Goblin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniProject\\Enemy\\Goblin.cs",
+              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\MiniProject\\Enemy\\Goblin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniProject\\Enemy\\Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T11:22:44.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
