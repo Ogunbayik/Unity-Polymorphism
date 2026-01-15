@@ -52,6 +52,8 @@ public abstract class EnemyBase : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
+
+    public EnemyDataSO Data => _enemyData;
 }
 
 public enum EnemyType

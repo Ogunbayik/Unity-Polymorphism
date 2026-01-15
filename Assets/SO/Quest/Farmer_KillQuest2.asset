@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc02e1ee611832f40956ab5726e213db, type: 3}
+  m_Name: Farmer_KillQuest2
+  m_EditorClassIdentifier: 
+  _id: 2
+  _description: Need to kill 5 Zombie for defence our village.
+  _name: Zombie
+  _killCount: 5
