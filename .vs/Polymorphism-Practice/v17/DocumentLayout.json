@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\challenge2\\abilitycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenge2\\abilitycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\challenge2\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenge2\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\challenge2\\healability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenge2\\healability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|c:\\users\\ogun\\unityprojects\\polymorphism-practice\\assets\\scripts\\challenge2\\fireballability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenge2\\fireballability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\assets\\scripts\\challenge2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{565166B1-7351-FFBE-AACC-2376D91D7633}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\challenge2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HealAbility.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\HealAbility.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenge2\\HealAbility.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\HealAbility.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Challenge2\\HealAbility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:26:02.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FireballAbility.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\FireballAbility.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenge2\\FireballAbility.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\FireballAbility.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Challenge2\\FireballAbility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:25:54.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ability.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\Ability.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenge2\\Ability.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\Ability.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Challenge2\\Ability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:15:15.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AbilityCaster.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\AbilityCaster.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenge2\\AbilityCaster.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\AbilityCaster.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Challenge2\\AbilityCaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:23:47.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Challenge2\\Player.cs",
-              "ToolTip": "C:\\Users\\ogun\\UnityProjects\\Polymorphism-Practice\\Assets\\Scripts\\Challenge2\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Challenge2\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T17:14:42.94Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
