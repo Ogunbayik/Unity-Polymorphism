@@ -60,15 +60,20 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\Crate.cs" />
+    <Compile Include="Assets\Scripts\Challenge2\HealAbility.cs" />
+    <Compile Include="Assets\Scripts\Challenge2\AbilityCaster.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Enemy.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Crate.cs" />
+    <Compile Include="Assets\Scripts\Challenge2\Player.cs" />
     <Compile Include="Assets\Scripts\Interface\IDamageable.cs" />
-    <Compile Include="Assets\Scripts\TestManager.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scripts\BulletSpawner.cs" />
-    <Compile Include="Assets\Scripts\Orc.cs" />
-    <Compile Include="Assets\Scripts\Wall.cs" />
-    <Compile Include="Assets\Scripts\Archer.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Archer.cs" />
+    <Compile Include="Assets\Scripts\Challenge2\Ability.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\TestManager.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\BulletSpawner.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Orc.cs" />
+    <Compile Include="Assets\Scripts\Challenge2\FireballAbility.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Wall.cs" />
+    <Compile Include="Assets\Scripts\Challenge1\Bullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
